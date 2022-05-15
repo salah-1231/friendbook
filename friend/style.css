@@ -1,0 +1,25 @@
+.post1 {
+    max-width: 50%;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+
+.comment {
+    background-color: thistle;
+    color: blue;
+}
+
+.form1 {
+    padding: 1.5rem;
+    margin-right: 0;
+    margin-left: 0;
+    border-width: 1px;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+}
+
+.post-main {
+    width: fit-content;
+}
